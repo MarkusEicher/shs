@@ -1,2 +1,1 @@
-First readme initial commit
-Second readme second commit
+Homebrew tooling around the Google Cloud Associate Engineer Certification
